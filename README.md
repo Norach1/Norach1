@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Norach1
-- 👀 I’m interested in art
-- 🌱 I’m currently learning AI
-
+Norach, a new celebrity...
+Trying to code a website
 
 <!---
 Norach1/Norach1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
